@@ -13,7 +13,7 @@ namespace OOPInnerType
             Musteri M1 = new Musteri();
 
             M1.musteriID = 1;
-            M1.tcKimlikNumarasi = "25363351132";
+            M1.tcKimlikNumarasi = "12141517181";
             M1.isim = "Doğukan";
             M1.soyisim = "ÖZEL";
             M1.olusturmaTarih=DateTime.Now;
